@@ -1,2 +1,2 @@
-git is a good software
-git is very convenient
+git is a good software haha
+git is very convenient gaga
